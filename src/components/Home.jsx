@@ -1,4 +1,5 @@
 import React from 'react'
+import Apply from './Apply'
 import Hero from './Hero'
 import Services from './Services'
 import Talk from './Talk'
@@ -13,6 +14,7 @@ function Home() {
   <Services/>
   <Whoweare/>
   <Talk/>
+  <Apply/>
    
     </>
   )

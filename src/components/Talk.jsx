@@ -11,7 +11,7 @@ function Talk() {
         <button class="bg-white mx-auto text-black font-bold py-3  w-40 my-20 rounded-xl">
         Let’s Talk
         </button>
-        </div>
+    </div>
     
     
     </>
