@@ -15,7 +15,7 @@ function Services() {
 
           <div className='grid grid-cols-1 lg:grid-cols-3  gap-x-8 gap-y-16 px-20 sm:pt-20 text-black'>
           
-              <div className='bg-white rounded-xl shadow-2xl'>
+              <div className='bg-white rounded-xl shadow-2xl '>
                <Zoom>
                   <div className='p-10'>
                      <div class='icons-services'>
