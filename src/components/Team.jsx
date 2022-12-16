@@ -8,7 +8,7 @@ import img3 from '../assets/img3_team.png'
 function Team() {
   return (
     <>
-    <h1 className='text-black font-bold text-center text-xxl mt-90'>Our Team</h1>
+    <h1 className='text-black font-bold text-center text-xxl mt-10'>Our Team</h1>
     <div className='grid grid-cols-1 lg:grid-cols-3  gap-x-8 gap-y-16 px-20 sm:pt-20 text-black mb-20'>
                   
               <div className=' '>
@@ -26,8 +26,8 @@ function Team() {
                   <div className='p-1'>
                      
                   <img src={img2} alt=''/>
-                  <h3 className='font-medium mt-1 text-20'>Security Office</h3>
-                      <h1 className='font-bold text-32'>John Mike</h1>
+                  <h3 className='font-medium mt-1 text-20'>Security Officer</h3>
+                      <h1 className='font-bold text-32'>Noah Mkey</h1>
 
                   </div>
                 </Zoom>   
@@ -39,7 +39,7 @@ function Team() {
                  
                   <img src={img3} alt=''/>
                   <h3 className='font-medium mt-1 text-20'>Sales Manager</h3>
-                      <h1 className='font-bold text-32'>John Mike</h1>
+                      <h1 className='font-bold text-32'>George Lee</h1>
                   </div>
                   </Zoom>   
               </div>

@@ -54,6 +54,7 @@ module.exports = {
       black:'#000000',
       white:'#FFFFFF',
       blue:'#0C4DA2',
+      nav_color:'#0C4DA25E',
       
 
     },

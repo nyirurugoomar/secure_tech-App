@@ -8,7 +8,7 @@ function Talk() {
 
         
         <h1 className='text-white font-bold text-center text-xxl mt-40'>Want to Learn More?</h1>
-        <button class="bg-white mx-auto text-black font-bold py-3  w-40 my-20 rounded-xl">
+        <button class="bg-white mx-auto text-black font-bold py-3  w-40 my-20 rounded-xl cursor-pointer">
         Let’s Talk
         </button>
     </div>
